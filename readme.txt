@@ -10,3 +10,5 @@ my friend is Jam.
 文件写到一半的时候,stash保存状态，完成了一项新任务
 helloworld
 这是clone下来修改了一行
+文件写到一半的时候正
+
